@@ -1,0 +1,539 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,continent
+Afghanistan,0,0,0,0.0,Asia
+Albania,89,132,54,4.9,Europe
+Algeria,25,0,14,0.7,Africa
+Andorra,245,138,312,12.4,Europe
+Angola,217,57,45,5.9,Africa
+Antigua & Barbuda,102,128,45,4.9,North America
+Argentina,193,25,221,8.3,South America
+Armenia,21,179,11,3.8,Europe
+Australia,261,72,212,10.4,Oceania
+Austria,279,75,191,9.7,Europe
+Azerbaijan,21,46,5,1.3,Europe
+Bahamas,122,176,51,6.3,North America
+Bahrain,42,63,7,2.0,Asia
+Bangladesh,0,0,0,0.0,Asia
+Barbados,143,173,36,6.3,North America
+Belarus,142,373,42,14.4,Europe
+Belgium,295,84,212,10.5,Europe
+Belize,263,114,8,6.8,North America
+Benin,34,4,13,1.1,Africa
+Bhutan,23,0,0,0.4,Asia
+Bolivia,167,41,8,3.8,South America
+Bosnia-Herzegovina,76,173,8,4.6,Europe
+Botswana,173,35,35,5.4,Africa
+Brazil,245,145,16,7.2,South America
+Brunei,31,2,1,0.6,Asia
+Bulgaria,231,252,94,10.3,Europe
+Burkina Faso,25,7,7,4.3,Africa
+Burundi,88,0,0,6.3,Africa
+Cote d'Ivoire,37,1,7,4.0,Africa
+Cabo Verde,144,56,16,4.0,Africa
+Cambodia,57,65,1,2.2,Asia
+Cameroon,147,1,4,5.8,Africa
+Canada,240,122,100,8.2,North America
+Central African Republic,17,2,1,1.8,Africa
+Chad,15,1,1,0.4,Africa
+Chile,130,124,172,7.6,South America
+China,79,192,8,5.0,Asia
+Colombia,159,76,3,4.2,South America
+Comoros,1,3,1,0.1,Africa
+Congo,76,1,9,1.7,Africa
+Cook Islands,0,254,74,5.9,Oceania
+Costa Rica,149,87,11,4.4,North America
+Croatia,230,87,254,10.2,Europe
+Cuba,93,137,5,4.2,North America
+Cyprus,192,154,113,8.2,Europe
+Czech Republic,361,170,134,11.8,Europe
+North Korea,0,0,0,0.0,Asia
+DR Congo,32,3,1,2.3,Africa
+Denmark,224,81,278,10.4,Europe
+Djibouti,15,44,3,1.1,Africa
+Dominica,52,286,26,6.6,North America
+Dominican Republic,193,147,9,6.2,North America
+Ecuador,162,74,3,4.2,South America
+Egypt,6,4,1,0.2,Africa
+El Salvador,52,69,2,2.2,North America
+Equatorial Guinea,92,0,233,5.8,Africa
+Eritrea,18,0,0,0.5,Africa
+Estonia,224,194,59,9.5,Europe
+Ethiopia,20,3,0,0.7,Africa
+Fiji,77,35,1,2.0,Oceania
+Finland,263,133,97,10.0,Europe
+France,127,151,370,11.8,Europe
+Gabon,347,98,59,8.9,Africa
+Gambia,8,0,1,2.4,Africa
+Georgia,52,100,149,5.4,Europe
+Germany,346,117,175,11.3,Europe
+Ghana,31,3,10,1.8,Africa
+Greece,133,112,218,8.3,Europe
+Grenada,199,438,28,11.9,North America
+Guatemala,53,69,2,2.2,North America
+Guinea,9,0,2,0.2,Africa
+Guinea-Bissau,28,31,21,2.5,Africa
+Guyana,93,302,1,7.1,South America
+Haiti,1,326,1,5.9,North America
+Honduras,69,98,2,3.0,North America
+Hungary,234,215,185,11.3,Europe
+Iceland,233,61,78,6.6,Europe
+India,9,114,0,2.2,Asia
+Indonesia,5,1,0,0.1,Asia
+Iran,0,0,0,0.0,Asia
+Iraq,9,3,0,0.2,Asia
+Ireland,313,118,165,11.4,Europe
+Israel,63,69,9,2.5,Asia
+Italy,85,42,237,6.5,Europe
+Jamaica,82,97,9,3.4,North America
+Japan,77,202,16,7.0,Asia
+Jordan,6,21,1,0.5,Asia
+Kazakhstan,124,246,12,6.8,Asia
+Kenya,58,22,2,1.8,Africa
+Kiribati,21,34,1,1.0,Oceania
+Kuwait,0,0,0,0.0,Asia
+Kyrgyzstan,31,97,6,2.4,Asia
+Laos,62,0,123,6.2,Asia
+Latvia,281,216,62,10.5,Europe
+Lebanon,20,55,31,1.9,Asia
+Lesotho,82,29,0,2.8,Africa
+Liberia,19,152,2,3.1,Africa
+Libya,0,0,0,0.0,Africa
+Lithuania,343,244,56,12.9,Europe
+Luxembourg,236,133,271,11.4,Europe
+Madagascar,26,15,4,0.8,Africa
+Malawi,8,11,1,1.5,Africa
+Malaysia,13,4,0,0.3,Asia
+Maldives,0,0,0,0.0,Asia
+Mali,5,1,1,0.6,Africa
+Malta,149,100,120,6.6,Europe
+Marshall Islands,0,0,0,0.0,Oceania
+Mauritania,0,0,0,0.0,Africa
+Mauritius,98,31,18,2.6,Africa
+Mexico,238,68,5,5.5,North America
+Micronesia,62,50,18,2.3,Oceania
+Monaco,0,0,0,0.0,Europe
+Mongolia,77,189,8,4.9,Asia
+Montenegro,31,114,128,4.9,Europe
+Morocco,12,6,10,0.5,Africa
+Mozambique,47,18,5,1.3,Africa
+Myanmar,5,1,0,0.1,Asia
+Namibia,376,3,1,6.8,Africa
+Nauru,49,0,8,1.0,Oceania
+Nepal,5,6,0,0.2,Asia
+Netherlands,251,88,190,9.4,Europe
+New Zealand,203,79,175,9.3,Oceania
+Nicaragua,78,118,1,3.5,North America
+Niger,3,2,1,0.1,Africa
+Nigeria,42,5,2,9.1,Africa
+Niue,188,200,7,7.0,Oceania
+Norway,169,71,129,6.7,Europe
+Oman,22,16,1,0.7,Asia
+Pakistan,0,0,0,0.0,Asia
+Palau,306,63,23,6.9,Oceania
+Panama,285,104,18,7.2,North America
+Papua New Guinea,44,39,1,1.5,Oceania
+Paraguay,213,117,74,7.3,South America
+Peru,163,160,21,6.1,South America
+Philippines,71,186,1,4.6,Asia
+Poland,343,215,56,10.9,Europe
+Portugal,194,67,339,11.0,Europe
+Qatar,1,42,7,0.9,Asia
+South Korea,140,16,9,9.8,Asia
+Moldova,109,226,18,6.3,Europe
+Romania,297,122,167,10.4,Europe
+Russian Federation,247,326,73,11.5,Asia
+Rwanda,43,2,0,6.8,Africa
+St. Kitts & Nevis,194,205,32,7.7,North America
+St. Lucia,171,315,71,10.1,North America
+St. Vincent & the Grenadines,120,221,11,6.3,North America
+Samoa,105,18,24,2.6,Oceania
+San Marino,0,0,0,0.0,Europe
+Sao Tome & Principe,56,38,140,4.2,Africa
+Saudi Arabia,0,5,0,0.1,Asia
+Senegal,9,1,7,0.3,Africa
+Serbia,283,131,127,9.6,Europe
+Seychelles,157,25,51,4.1,Africa
+Sierra Leone,25,3,2,6.7,Africa
+Singapore,60,12,11,1.5,Asia
+Slovakia,196,293,116,11.4,Europe
+Slovenia,270,51,276,10.6,Europe
+Solomon Islands,56,11,1,1.2,Oceania
+Somalia,0,0,0,0.0,Africa
+South Africa,225,76,81,8.2,Africa
+Spain,284,157,112,10.0,Europe
+Sri Lanka,16,104,0,2.2,Asia
+Sudan,8,13,0,1.7,Africa
+Suriname,128,178,7,5.6,South America
+Swaziland,90,2,2,4.7,Africa
+Sweden,152,60,186,7.2,Europe
+Switzerland,185,100,280,10.2,Europe
+Syria,5,35,16,1.0,Asia
+Tajikistan,2,15,0,0.3,Asia
+Thailand,99,258,1,6.4,Asia
+Macedonia,106,27,86,3.9,Europe
+Timor-Leste,1,1,4,0.1,Asia
+Togo,36,2,19,1.3,Africa
+Tonga,36,21,5,1.1,Oceania
+Trinidad & Tobago,197,156,7,6.4,North America
+Tunisia,51,3,20,1.3,Africa
+Turkey,51,22,7,1.4,Asia
+Turkmenistan,19,71,32,2.2,Asia
+Tuvalu,6,41,9,1.0,Oceania
+Uganda,45,9,0,8.3,Africa
+Ukraine,206,237,45,8.9,Europe
+United Arab Emirates,16,135,5,2.8,Asia
+United Kingdom,219,126,195,10.4,Europe
+Tanzania,36,6,1,5.7,Africa
+USA,249,158,84,8.7,North America
+Uruguay,115,35,220,6.6,South America
+Uzbekistan,25,101,8,2.4,Asia
+Vanuatu,21,18,11,0.9,Oceania
+Venezuela,333,100,3,7.7,South America
+Vietnam,111,2,1,2.0,Asia
+Yemen,6,0,0,0.1,Asia
+Zambia,32,19,4,2.5,Africa
+Zimbabwe,64,18,4,4.7,Africa
+species,island,bill_length_mm,bill_depth_mm,flipper_length_mm,body_mass_g,sex,year
+Adelie,Torgersen,39.1,18.7,181,3750,male,2007
+Adelie,Torgersen,39.5,17.4,186,3800,female,2007
+Adelie,Torgersen,40.3,18,195,3250,female,2007
+Adelie,Torgersen,,,,,,2007
+Adelie,Torgersen,36.7,19.3,193,3450,female,2007
+Adelie,Torgersen,39.3,20.6,190,3650,male,2007
+Adelie,Torgersen,38.9,17.8,181,3625,female,2007
+Adelie,Torgersen,39.2,19.6,195,4675,male,2007
+Adelie,Torgersen,34.1,18.1,193,3475,,2007
+Adelie,Torgersen,42,20.2,190,4250,,2007
+Adelie,Torgersen,37.8,17.1,186,3300,,2007
+Adelie,Torgersen,37.8,17.3,180,3700,,2007
+Adelie,Torgersen,41.1,17.6,182,3200,female,2007
+Adelie,Torgersen,38.6,21.2,191,3800,male,2007
+Adelie,Torgersen,34.6,21.1,198,4400,male,2007
+Adelie,Torgersen,36.6,17.8,185,3700,female,2007
+Adelie,Torgersen,38.7,19,195,3450,female,2007
+Adelie,Torgersen,42.5,20.7,197,4500,male,2007
+Adelie,Torgersen,34.4,18.4,184,3325,female,2007
+Adelie,Torgersen,46,21.5,194,4200,male,2007
+Adelie,Biscoe,37.8,18.3,174,3400,female,2007
+Adelie,Biscoe,37.7,18.7,180,3600,male,2007
+Adelie,Biscoe,35.9,19.2,189,3800,female,2007
+Adelie,Biscoe,38.2,18.1,185,3950,male,2007
+Adelie,Biscoe,38.8,17.2,180,3800,male,2007
+Adelie,Biscoe,35.3,18.9,187,3800,female,2007
+Adelie,Biscoe,40.6,18.6,183,3550,male,2007
+Adelie,Biscoe,40.5,17.9,187,3200,female,2007
+Adelie,Biscoe,37.9,18.6,172,3150,female,2007
+Adelie,Biscoe,40.5,18.9,180,3950,male,2007
+Adelie,Dream,39.5,16.7,178,3250,female,2007
+Adelie,Dream,37.2,18.1,178,3900,male,2007
+Adelie,Dream,39.5,17.8,188,3300,female,2007
+Adelie,Dream,40.9,18.9,184,3900,male,2007
+Adelie,Dream,36.4,17,195,3325,female,2007
+Adelie,Dream,39.2,21.1,196,4150,male,2007
+Adelie,Dream,38.8,20,190,3950,male,2007
+Adelie,Dream,42.2,18.5,180,3550,female,2007
+Adelie,Dream,37.6,19.3,181,3300,female,2007
+Adelie,Dream,39.8,19.1,184,4650,male,2007
+Adelie,Dream,36.5,18,182,3150,female,2007
+Adelie,Dream,40.8,18.4,195,3900,male,2007
+Adelie,Dream,36,18.5,186,3100,female,2007
+Adelie,Dream,44.1,19.7,196,4400,male,2007
+Adelie,Dream,37,16.9,185,3000,female,2007
+Adelie,Dream,39.6,18.8,190,4600,male,2007
+Adelie,Dream,41.1,19,182,3425,male,2007
+Adelie,Dream,37.5,18.9,179,2975,,2007
+Adelie,Dream,36,17.9,190,3450,female,2007
+Adelie,Dream,42.3,21.2,191,4150,male,2007
+Adelie,Biscoe,39.6,17.7,186,3500,female,2008
+Adelie,Biscoe,40.1,18.9,188,4300,male,2008
+Adelie,Biscoe,35,17.9,190,3450,female,2008
+Adelie,Biscoe,42,19.5,200,4050,male,2008
+Adelie,Biscoe,34.5,18.1,187,2900,female,2008
+Adelie,Biscoe,41.4,18.6,191,3700,male,2008
+Adelie,Biscoe,39,17.5,186,3550,female,2008
+Adelie,Biscoe,40.6,18.8,193,3800,male,2008
+Adelie,Biscoe,36.5,16.6,181,2850,female,2008
+Adelie,Biscoe,37.6,19.1,194,3750,male,2008
+Adelie,Biscoe,35.7,16.9,185,3150,female,2008
+Adelie,Biscoe,41.3,21.1,195,4400,male,2008
+Adelie,Biscoe,37.6,17,185,3600,female,2008
+Adelie,Biscoe,41.1,18.2,192,4050,male,2008
+Adelie,Biscoe,36.4,17.1,184,2850,female,2008
+Adelie,Biscoe,41.6,18,192,3950,male,2008
+Adelie,Biscoe,35.5,16.2,195,3350,female,2008
+Adelie,Biscoe,41.1,19.1,188,4100,male,2008
+Adelie,Torgersen,35.9,16.6,190,3050,female,2008
+Adelie,Torgersen,41.8,19.4,198,4450,male,2008
+Adelie,Torgersen,33.5,19,190,3600,female,2008
+Adelie,Torgersen,39.7,18.4,190,3900,male,2008
+Adelie,Torgersen,39.6,17.2,196,3550,female,2008
+Adelie,Torgersen,45.8,18.9,197,4150,male,2008
+Adelie,Torgersen,35.5,17.5,190,3700,female,2008
+Adelie,Torgersen,42.8,18.5,195,4250,male,2008
+Adelie,Torgersen,40.9,16.8,191,3700,female,2008
+Adelie,Torgersen,37.2,19.4,184,3900,male,2008
+Adelie,Torgersen,36.2,16.1,187,3550,female,2008
+Adelie,Torgersen,42.1,19.1,195,4000,male,2008
+Adelie,Torgersen,34.6,17.2,189,3200,female,2008
+Adelie,Torgersen,42.9,17.6,196,4700,male,2008
+Adelie,Torgersen,36.7,18.8,187,3800,female,2008
+Adelie,Torgersen,35.1,19.4,193,4200,male,2008
+Adelie,Dream,37.3,17.8,191,3350,female,2008
+Adelie,Dream,41.3,20.3,194,3550,male,2008
+Adelie,Dream,36.3,19.5,190,3800,male,2008
+Adelie,Dream,36.9,18.6,189,3500,female,2008
+Adelie,Dream,38.3,19.2,189,3950,male,2008
+Adelie,Dream,38.9,18.8,190,3600,female,2008
+Adelie,Dream,35.7,18,202,3550,female,2008
+Adelie,Dream,41.1,18.1,205,4300,male,2008
+Adelie,Dream,34,17.1,185,3400,female,2008
+Adelie,Dream,39.6,18.1,186,4450,male,2008
+Adelie,Dream,36.2,17.3,187,3300,female,2008
+Adelie,Dream,40.8,18.9,208,4300,male,2008
+Adelie,Dream,38.1,18.6,190,3700,female,2008
+Adelie,Dream,40.3,18.5,196,4350,male,2008
+Adelie,Dream,33.1,16.1,178,2900,female,2008
+Adelie,Dream,43.2,18.5,192,4100,male,2008
+Adelie,Biscoe,35,17.9,192,3725,female,2009
+Adelie,Biscoe,41,20,203,4725,male,2009
+Adelie,Biscoe,37.7,16,183,3075,female,2009
+Adelie,Biscoe,37.8,20,190,4250,male,2009
+Adelie,Biscoe,37.9,18.6,193,2925,female,2009
+Adelie,Biscoe,39.7,18.9,184,3550,male,2009
+Adelie,Biscoe,38.6,17.2,199,3750,female,2009
+Adelie,Biscoe,38.2,20,190,3900,male,2009
+Adelie,Biscoe,38.1,17,181,3175,female,2009
+Adelie,Biscoe,43.2,19,197,4775,male,2009
+Adelie,Biscoe,38.1,16.5,198,3825,female,2009
+Adelie,Biscoe,45.6,20.3,191,4600,male,2009
+Adelie,Biscoe,39.7,17.7,193,3200,female,2009
+Adelie,Biscoe,42.2,19.5,197,4275,male,2009
+Adelie,Biscoe,39.6,20.7,191,3900,female,2009
+Adelie,Biscoe,42.7,18.3,196,4075,male,2009
+Adelie,Torgersen,38.6,17,188,2900,female,2009
+Adelie,Torgersen,37.3,20.5,199,3775,male,2009
+Adelie,Torgersen,35.7,17,189,3350,female,2009
+Adelie,Torgersen,41.1,18.6,189,3325,male,2009
+Adelie,Torgersen,36.2,17.2,187,3150,female,2009
+Adelie,Torgersen,37.7,19.8,198,3500,male,2009
+Adelie,Torgersen,40.2,17,176,3450,female,2009
+Adelie,Torgersen,41.4,18.5,202,3875,male,2009
+Adelie,Torgersen,35.2,15.9,186,3050,female,2009
+Adelie,Torgersen,40.6,19,199,4000,male,2009
+Adelie,Torgersen,38.8,17.6,191,3275,female,2009
+Adelie,Torgersen,41.5,18.3,195,4300,male,2009
+Adelie,Torgersen,39,17.1,191,3050,female,2009
+Adelie,Torgersen,44.1,18,210,4000,male,2009
+Adelie,Torgersen,38.5,17.9,190,3325,female,2009
+Adelie,Torgersen,43.1,19.2,197,3500,male,2009
+Adelie,Dream,36.8,18.5,193,3500,female,2009
+Adelie,Dream,37.5,18.5,199,4475,male,2009
+Adelie,Dream,38.1,17.6,187,3425,female,2009
+Adelie,Dream,41.1,17.5,190,3900,male,2009
+Adelie,Dream,35.6,17.5,191,3175,female,2009
+Adelie,Dream,40.2,20.1,200,3975,male,2009
+Adelie,Dream,37,16.5,185,3400,female,2009
+Adelie,Dream,39.7,17.9,193,4250,male,2009
+Adelie,Dream,40.2,17.1,193,3400,female,2009
+Adelie,Dream,40.6,17.2,187,3475,male,2009
+Adelie,Dream,32.1,15.5,188,3050,female,2009
+Adelie,Dream,40.7,17,190,3725,male,2009
+Adelie,Dream,37.3,16.8,192,3000,female,2009
+Adelie,Dream,39,18.7,185,3650,male,2009
+Adelie,Dream,39.2,18.6,190,4250,male,2009
+Adelie,Dream,36.6,18.4,184,3475,female,2009
+Adelie,Dream,36,17.8,195,3450,female,2009
+Adelie,Dream,37.8,18.1,193,3750,male,2009
+Adelie,Dream,36,17.1,187,3700,female,2009
+Adelie,Dream,41.5,18.5,201,4000,male,2009
+Gentoo,Biscoe,46.1,13.2,211,4500,female,2007
+Gentoo,Biscoe,50,16.3,230,5700,male,2007
+Gentoo,Biscoe,48.7,14.1,210,4450,female,2007
+Gentoo,Biscoe,50,15.2,218,5700,male,2007
+Gentoo,Biscoe,47.6,14.5,215,5400,male,2007
+Gentoo,Biscoe,46.5,13.5,210,4550,female,2007
+Gentoo,Biscoe,45.4,14.6,211,4800,female,2007
+Gentoo,Biscoe,46.7,15.3,219,5200,male,2007
+Gentoo,Biscoe,43.3,13.4,209,4400,female,2007
+Gentoo,Biscoe,46.8,15.4,215,5150,male,2007
+Gentoo,Biscoe,40.9,13.7,214,4650,female,2007
+Gentoo,Biscoe,49,16.1,216,5550,male,2007
+Gentoo,Biscoe,45.5,13.7,214,4650,female,2007
+Gentoo,Biscoe,48.4,14.6,213,5850,male,2007
+Gentoo,Biscoe,45.8,14.6,210,4200,female,2007
+Gentoo,Biscoe,49.3,15.7,217,5850,male,2007
+Gentoo,Biscoe,42,13.5,210,4150,female,2007
+Gentoo,Biscoe,49.2,15.2,221,6300,male,2007
+Gentoo,Biscoe,46.2,14.5,209,4800,female,2007
+Gentoo,Biscoe,48.7,15.1,222,5350,male,2007
+Gentoo,Biscoe,50.2,14.3,218,5700,male,2007
+Gentoo,Biscoe,45.1,14.5,215,5000,female,2007
+Gentoo,Biscoe,46.5,14.5,213,4400,female,2007
+Gentoo,Biscoe,46.3,15.8,215,5050,male,2007
+Gentoo,Biscoe,42.9,13.1,215,5000,female,2007
+Gentoo,Biscoe,46.1,15.1,215,5100,male,2007
+Gentoo,Biscoe,44.5,14.3,216,4100,,2007
+Gentoo,Biscoe,47.8,15,215,5650,male,2007
+Gentoo,Biscoe,48.2,14.3,210,4600,female,2007
+Gentoo,Biscoe,50,15.3,220,5550,male,2007
+Gentoo,Biscoe,47.3,15.3,222,5250,male,2007
+Gentoo,Biscoe,42.8,14.2,209,4700,female,2007
+Gentoo,Biscoe,45.1,14.5,207,5050,female,2007
+Gentoo,Biscoe,59.6,17,230,6050,male,2007
+Gentoo,Biscoe,49.1,14.8,220,5150,female,2008
+Gentoo,Biscoe,48.4,16.3,220,5400,male,2008
+Gentoo,Biscoe,42.6,13.7,213,4950,female,2008
+Gentoo,Biscoe,44.4,17.3,219,5250,male,2008
+Gentoo,Biscoe,44,13.6,208,4350,female,2008
+Gentoo,Biscoe,48.7,15.7,208,5350,male,2008
+Gentoo,Biscoe,42.7,13.7,208,3950,female,2008
+Gentoo,Biscoe,49.6,16,225,5700,male,2008
+Gentoo,Biscoe,45.3,13.7,210,4300,female,2008
+Gentoo,Biscoe,49.6,15,216,4750,male,2008
+Gentoo,Biscoe,50.5,15.9,222,5550,male,2008
+Gentoo,Biscoe,43.6,13.9,217,4900,female,2008
+Gentoo,Biscoe,45.5,13.9,210,4200,female,2008
+Gentoo,Biscoe,50.5,15.9,225,5400,male,2008
+Gentoo,Biscoe,44.9,13.3,213,5100,female,2008
+Gentoo,Biscoe,45.2,15.8,215,5300,male,2008
+Gentoo,Biscoe,46.6,14.2,210,4850,female,2008
+Gentoo,Biscoe,48.5,14.1,220,5300,male,2008
+Gentoo,Biscoe,45.1,14.4,210,4400,female,2008
+Gentoo,Biscoe,50.1,15,225,5000,male,2008
+Gentoo,Biscoe,46.5,14.4,217,4900,female,2008
+Gentoo,Biscoe,45,15.4,220,5050,male,2008
+Gentoo,Biscoe,43.8,13.9,208,4300,female,2008
+Gentoo,Biscoe,45.5,15,220,5000,male,2008
+Gentoo,Biscoe,43.2,14.5,208,4450,female,2008
+Gentoo,Biscoe,50.4,15.3,224,5550,male,2008
+Gentoo,Biscoe,45.3,13.8,208,4200,female,2008
+Gentoo,Biscoe,46.2,14.9,221,5300,male,2008
+Gentoo,Biscoe,45.7,13.9,214,4400,female,2008
+Gentoo,Biscoe,54.3,15.7,231,5650,male,2008
+Gentoo,Biscoe,45.8,14.2,219,4700,female,2008
+Gentoo,Biscoe,49.8,16.8,230,5700,male,2008
+Gentoo,Biscoe,46.2,14.4,214,4650,,2008
+Gentoo,Biscoe,49.5,16.2,229,5800,male,2008
+Gentoo,Biscoe,43.5,14.2,220,4700,female,2008
+Gentoo,Biscoe,50.7,15,223,5550,male,2008
+Gentoo,Biscoe,47.7,15,216,4750,female,2008
+Gentoo,Biscoe,46.4,15.6,221,5000,male,2008
+Gentoo,Biscoe,48.2,15.6,221,5100,male,2008
+Gentoo,Biscoe,46.5,14.8,217,5200,female,2008
+Gentoo,Biscoe,46.4,15,216,4700,female,2008
+Gentoo,Biscoe,48.6,16,230,5800,male,2008
+Gentoo,Biscoe,47.5,14.2,209,4600,female,2008
+Gentoo,Biscoe,51.1,16.3,220,6000,male,2008
+Gentoo,Biscoe,45.2,13.8,215,4750,female,2008
+Gentoo,Biscoe,45.2,16.4,223,5950,male,2008
+Gentoo,Biscoe,49.1,14.5,212,4625,female,2009
+Gentoo,Biscoe,52.5,15.6,221,5450,male,2009
+Gentoo,Biscoe,47.4,14.6,212,4725,female,2009
+Gentoo,Biscoe,50,15.9,224,5350,male,2009
+Gentoo,Biscoe,44.9,13.8,212,4750,female,2009
+Gentoo,Biscoe,50.8,17.3,228,5600,male,2009
+Gentoo,Biscoe,43.4,14.4,218,4600,female,2009
+Gentoo,Biscoe,51.3,14.2,218,5300,male,2009
+Gentoo,Biscoe,47.5,14,212,4875,female,2009
+Gentoo,Biscoe,52.1,17,230,5550,male,2009
+Gentoo,Biscoe,47.5,15,218,4950,female,2009
+Gentoo,Biscoe,52.2,17.1,228,5400,male,2009
+Gentoo,Biscoe,45.5,14.5,212,4750,female,2009
+Gentoo,Biscoe,49.5,16.1,224,5650,male,2009
+Gentoo,Biscoe,44.5,14.7,214,4850,female,2009
+Gentoo,Biscoe,50.8,15.7,226,5200,male,2009
+Gentoo,Biscoe,49.4,15.8,216,4925,male,2009
+Gentoo,Biscoe,46.9,14.6,222,4875,female,2009
+Gentoo,Biscoe,48.4,14.4,203,4625,female,2009
+Gentoo,Biscoe,51.1,16.5,225,5250,male,2009
+Gentoo,Biscoe,48.5,15,219,4850,female,2009
+Gentoo,Biscoe,55.9,17,228,5600,male,2009
+Gentoo,Biscoe,47.2,15.5,215,4975,female,2009
+Gentoo,Biscoe,49.1,15,228,5500,male,2009
+Gentoo,Biscoe,47.3,13.8,216,4725,,2009
+Gentoo,Biscoe,46.8,16.1,215,5500,male,2009
+Gentoo,Biscoe,41.7,14.7,210,4700,female,2009
+Gentoo,Biscoe,53.4,15.8,219,5500,male,2009
+Gentoo,Biscoe,43.3,14,208,4575,female,2009
+Gentoo,Biscoe,48.1,15.1,209,5500,male,2009
+Gentoo,Biscoe,50.5,15.2,216,5000,female,2009
+Gentoo,Biscoe,49.8,15.9,229,5950,male,2009
+Gentoo,Biscoe,43.5,15.2,213,4650,female,2009
+Gentoo,Biscoe,51.5,16.3,230,5500,male,2009
+Gentoo,Biscoe,46.2,14.1,217,4375,female,2009
+Gentoo,Biscoe,55.1,16,230,5850,male,2009
+Gentoo,Biscoe,44.5,15.7,217,4875,,2009
+Gentoo,Biscoe,48.8,16.2,222,6000,male,2009
+Gentoo,Biscoe,47.2,13.7,214,4925,female,2009
+Gentoo,Biscoe,,,,,,2009
+Gentoo,Biscoe,46.8,14.3,215,4850,female,2009
+Gentoo,Biscoe,50.4,15.7,222,5750,male,2009
+Gentoo,Biscoe,45.2,14.8,212,5200,female,2009
+Gentoo,Biscoe,49.9,16.1,213,5400,male,2009
+Chinstrap,Dream,46.5,17.9,192,3500,female,2007
+Chinstrap,Dream,50,19.5,196,3900,male,2007
+Chinstrap,Dream,51.3,19.2,193,3650,male,2007
+Chinstrap,Dream,45.4,18.7,188,3525,female,2007
+Chinstrap,Dream,52.7,19.8,197,3725,male,2007
+Chinstrap,Dream,45.2,17.8,198,3950,female,2007
+Chinstrap,Dream,46.1,18.2,178,3250,female,2007
+Chinstrap,Dream,51.3,18.2,197,3750,male,2007
+Chinstrap,Dream,46,18.9,195,4150,female,2007
+Chinstrap,Dream,51.3,19.9,198,3700,male,2007
+Chinstrap,Dream,46.6,17.8,193,3800,female,2007
+Chinstrap,Dream,51.7,20.3,194,3775,male,2007
+Chinstrap,Dream,47,17.3,185,3700,female,2007
+Chinstrap,Dream,52,18.1,201,4050,male,2007
+Chinstrap,Dream,45.9,17.1,190,3575,female,2007
+Chinstrap,Dream,50.5,19.6,201,4050,male,2007
+Chinstrap,Dream,50.3,20,197,3300,male,2007
+Chinstrap,Dream,58,17.8,181,3700,female,2007
+Chinstrap,Dream,46.4,18.6,190,3450,female,2007
+Chinstrap,Dream,49.2,18.2,195,4400,male,2007
+Chinstrap,Dream,42.4,17.3,181,3600,female,2007
+Chinstrap,Dream,48.5,17.5,191,3400,male,2007
+Chinstrap,Dream,43.2,16.6,187,2900,female,2007
+Chinstrap,Dream,50.6,19.4,193,3800,male,2007
+Chinstrap,Dream,46.7,17.9,195,3300,female,2007
+Chinstrap,Dream,52,19,197,4150,male,2007
+Chinstrap,Dream,50.5,18.4,200,3400,female,2008
+Chinstrap,Dream,49.5,19,200,3800,male,2008
+Chinstrap,Dream,46.4,17.8,191,3700,female,2008
+Chinstrap,Dream,52.8,20,205,4550,male,2008
+Chinstrap,Dream,40.9,16.6,187,3200,female,2008
+Chinstrap,Dream,54.2,20.8,201,4300,male,2008
+Chinstrap,Dream,42.5,16.7,187,3350,female,2008
+Chinstrap,Dream,51,18.8,203,4100,male,2008
+Chinstrap,Dream,49.7,18.6,195,3600,male,2008
+Chinstrap,Dream,47.5,16.8,199,3900,female,2008
+Chinstrap,Dream,47.6,18.3,195,3850,female,2008
+Chinstrap,Dream,52,20.7,210,4800,male,2008
+Chinstrap,Dream,46.9,16.6,192,2700,female,2008
+Chinstrap,Dream,53.5,19.9,205,4500,male,2008
+Chinstrap,Dream,49,19.5,210,3950,male,2008
+Chinstrap,Dream,46.2,17.5,187,3650,female,2008
+Chinstrap,Dream,50.9,19.1,196,3550,male,2008
+Chinstrap,Dream,45.5,17,196,3500,female,2008
+Chinstrap,Dream,50.9,17.9,196,3675,female,2009
+Chinstrap,Dream,50.8,18.5,201,4450,male,2009
+Chinstrap,Dream,50.1,17.9,190,3400,female,2009
+Chinstrap,Dream,49,19.6,212,4300,male,2009
+Chinstrap,Dream,51.5,18.7,187,3250,male,2009
+Chinstrap,Dream,49.8,17.3,198,3675,female,2009
+Chinstrap,Dream,48.1,16.4,199,3325,female,2009
+Chinstrap,Dream,51.4,19,201,3950,male,2009
+Chinstrap,Dream,45.7,17.3,193,3600,female,2009
+Chinstrap,Dream,50.7,19.7,203,4050,male,2009
+Chinstrap,Dream,42.5,17.3,187,3350,female,2009
+Chinstrap,Dream,52.2,18.8,197,3450,male,2009
+Chinstrap,Dream,45.2,16.6,191,3250,female,2009
+Chinstrap,Dream,49.3,19.9,203,4050,male,2009
+Chinstrap,Dream,50.2,18.8,202,3800,male,2009
+Chinstrap,Dream,45.6,19.4,194,3525,female,2009
+Chinstrap,Dream,51.9,19.5,206,3950,male,2009
+Chinstrap,Dream,46.8,16.5,189,3650,female,2009
+Chinstrap,Dream,45.7,17,195,3650,female,2009
+Chinstrap,Dream,55.8,19.8,207,4000,male,2009
+Chinstrap,Dream,43.5,18.1,202,3400,female,2009
+Chinstrap,Dream,49.6,18.2,193,3775,male,2009
+Chinstrap,Dream,50.8,19,210,4100,male,2009
+Chinstrap,Dream,50.2,18.7,198,3775,female,2009
